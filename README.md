@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-This is for testing purpose.
-
-Java is great language.
+1.index.html
