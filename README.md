@@ -5,3 +5,5 @@ This is the first file in this repo.
 ## Ipsum Below
 
 This is for testing purpose.
+
+Java is great language.
